@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391585853103",
+    "project_id": "pgv-photoshoot",
+    "storage_bucket": "pgv-photoshoot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391585853103:android:4ac75bdd934687254bae5a",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391585853103-fhqluej4gdksks8tslm3hcl8gvpdn2fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR2AIxls8gG86dj2EE0UOqE7z17zVLSHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391585853103-fhqluej4gdksks8tslm3hcl8gvpdn2fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
